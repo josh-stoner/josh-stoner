@@ -1,4 +1,6 @@
-<h1><span style="color:#6d5acd">Josh</span> <span style="color:#c47088">Stoner</span></h1>
+<picture>
+  <img alt="Josh Stoner" src="header.svg" width="300">
+</picture>
 
 **Product Manager & AI Systems Builder** — NYC
 
@@ -24,4 +26,4 @@ I build systems that make people and teams better at their work. Currently desig
 
 ---
 
-<sub><b><span style="color:#c47088">s</span><span style="color:#6d5acd">OS</span></b></sub>
+<img alt="sOS" src="sos-mark.svg" width="36">

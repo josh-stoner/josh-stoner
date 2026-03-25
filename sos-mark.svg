@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 20">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@800');
+    text { font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 800; font-size: 16px; letter-spacing: -0.03em; }
+  </style>
+  <text x="0" y="15" fill="#c47088">s</text>
+  <text x="10" y="15" fill="#6d5acd">OS</text>
+</svg>
