@@ -2,7 +2,7 @@
   <img alt="Josh Stoner" src="header.svg" width="300">
 </picture>
 
-**Product Manager & AI Systems Builder** — NYC
+**Systems Builder** — NYC
 
 I build systems that make people and teams better at their work. Currently designing my personal AI operating system (**stoner**OS) and exploring how AI agents can augment human decision-making.
 
