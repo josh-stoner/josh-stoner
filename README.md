@@ -12,6 +12,7 @@ I build systems that make people and teams better at their work. Currently desig
 
 - **stonerOS** — a persistent AI memory and agent orchestration system that runs my professional life
 - **Scam Scanner** — a community-powered scam detection tool with AI analysis
+- **[Drift](https://github.com/josh-stoner/Drift)** & **[ClaudeUsage](https://github.com/josh-stoner/ClaudeUsage)** — macOS menu bar tools: one flags scope creep and gold-plating before they derail focused work, the other tracks Claude Code usage in real time
 - **Portfolio & Writing** — [josh-stoner.github.io](https://josh-stoner.github.io)
 
 ### What I care about
